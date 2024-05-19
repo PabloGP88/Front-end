@@ -1,2 +1,2 @@
 # Front-end
-Responsive landing page for omnifood
+Landing page for omnifood
